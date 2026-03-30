@@ -26,5 +26,11 @@ In the root directory of your project, run
 git clone -b BRANCH-NAME https://github.com/oliverdantzer/vscode-workspace-config.git ./.vscode
 ```
 
-## Not for usage in git repositories
+## Note regarding usage in git repositories
 This repository is usually used in git repositories with `.vscode/` listed in their `.gitignore` file. 
+
+> See https://go.microsoft.com/fwlink/?LinkId=827846
+> for the documentation about the **extensions.json** format
+
+> See https://go.microsoft.com/fwlink/?LinkId=827846
+> for the documentation about the **settings.json** format
