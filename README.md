@@ -2,7 +2,7 @@
 My VSCode workspace configuration git repository.
 Clone it into the root directory of your project with
 ```bash
-git clone https://github.com/oliverdantzer/vscode-workspace-config.git ./.vscode`
+git clone https://github.com/oliverdantzer/vscode-workspace-config.git ./.vscode
 ```
 
 ## What is project workspace configuration?
