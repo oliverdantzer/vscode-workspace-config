@@ -29,8 +29,8 @@ git clone -b BRANCH-NAME https://github.com/oliverdantzer/vscode-workspace-confi
 ## Note regarding usage in git repositories
 This repository is usually used in git repositories with `.vscode/` listed in their `.gitignore` file. 
 
-> See https://go.microsoft.com/fwlink/?LinkId=827846
+> See [the visual studio docs](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace#_workspace-recommended-extensions)
 > for the documentation about the **extensions.json** format
 
-> See https://go.microsoft.com/fwlink/?LinkId=827846
+> See [the visual studio docs](https://code.visualstudio.com/docs/configure/settings#_settings-json-file)
 > for the documentation about the **settings.json** format
