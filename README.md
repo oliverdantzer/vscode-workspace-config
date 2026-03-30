@@ -5,7 +5,7 @@ My VSCode workspace configuration git repository. Clone it into the root directo
 VSCode's format for a Project-level IDE configuration directory. Contains files such as:
 - `settings.json` - IDE settings
 - `extensions.json` - Recommended extensions
-- 
+
 ## What is this repo for?
 Use this repo to quickly set up vscode workspace configuration for your projects.
 
