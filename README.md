@@ -26,6 +26,12 @@ In the root directory of your project, run
 git clone -b BRANCH-NAME https://github.com/oliverdantzer/vscode-workspace-config.git ./.vscode
 ```
 
+### How to install the extensions in `extensions.json`
+1. Navigate to VSCode's "Extensions" tab
+2. Type `@recommended`
+3. A list of extensions will be shown in "Workspace Recommendations"
+4. Click the ☁️ button to install all extensions at once
+
 ## Note regarding usage in git repositories
 This repository is usually used in git repositories with `.vscode/` listed in their `.gitignore` file. 
 
