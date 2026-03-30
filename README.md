@@ -1,5 +1,5 @@
 # vscode-workspace-config
-My VSCode workspace configuration git repository. Clone it into the root directory of your project with `git clone ... ./.vscode
+My VSCode workspace configuration git repository. Clone it into the root directory of your project with `git clone ... ./.vscode`
 
 ## What is project workspace configuration?
 VSCode's format for a Project-level IDE configuration directory. Contains files such as:
