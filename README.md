@@ -1,5 +1,9 @@
 # vscode-workspace-config
-My VSCode workspace configuration git repository. Clone it into the root directory of your project with `git clone ... ./.vscode`
+My VSCode workspace configuration git repository.
+Clone it into the root directory of your project with
+```bash
+git clone https://github.com/oliverdantzer/vscode-workspace-config.git ./.vscode`
+```
 
 ## What is project workspace configuration?
 VSCode's format for a Project-level IDE configuration directory. Contains files such as:
@@ -12,11 +16,15 @@ Use this repo to quickly set up vscode workspace configuration for your projects
 ## How do I use this repo?
 ### Generic version
 In the root directory of your project, run
-`git clone ... ./.vscode`
+```bash
+git clone https://github.com/oliverdantzer/vscode-workspace-config.git ./.vscode
+```
 ### Project-specific branches
 To use a branch made for a specific use case:
 In the root directory of your project, run
-`git clone -b BRANCH-NAME ... ./.vscode`
+```bash
+git clone -b BRANCH-NAME https://github.com/oliverdantzer/vscode-workspace-config.git ./.vscode
+```
 
 ## Not for usage in git repositories
 This repository is usually used in git repositories with `.vscode/` listed in their `.gitignore` file. 
